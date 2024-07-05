@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">¡Hola 👋! Soy gatito360👨‍💻 programando desde 2023 🚀</div>  
